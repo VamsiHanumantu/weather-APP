@@ -11,7 +11,6 @@ thub.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
-![Screenshot (78)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/626c6338-f656-4b6d-8cbc-382237a8b44b)
 
 ### `npm start`
 
