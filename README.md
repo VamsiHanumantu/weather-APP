@@ -1,11 +1,17 @@
 # Getting Started with Create React App 
 This project was bootstrapped with [Create React App]
 thub.com/facebook/create-react-app).
+
+# In celcius
+![Screenshot (78)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/626c6338-f656-4b6d-8cbc-382237a8b44b)
+
+# In Farenhiet
 ![Screenshot (79)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/a0dbd139-0382-4a8d-a740-4e90677df537)
 ## Available Scripts
 
 In the project directory, you can run:
 
+![Screenshot (78)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/626c6338-f656-4b6d-8cbc-382237a8b44b)
 
 ### `npm start`
 
