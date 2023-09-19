@@ -1,5 +1,5 @@
 # Getting Started with Create React App (https://gi![Screenshot (78)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/83de2070-c88d-4bf9-ae7f-2f10144bf857)
-
+<img src="[/path/to/img.jpg](https://gi![Screenshot (78)](https://github.com/VamsiHanumantu/weather-APP/assets/108566661/83de2070-c88d-4bf9-ae7f-2f10144bf857)" alt="Alt text" title="Optional title">
 This project was bootstrapped with [Create React App]
 thub.com/facebook/create-react-app).
 
